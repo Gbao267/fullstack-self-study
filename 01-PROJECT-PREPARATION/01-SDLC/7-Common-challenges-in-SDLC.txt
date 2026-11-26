@@ -1,0 +1,27 @@
+///Common challenges in the software development lifecycle ///
+Dưới đây là một số thách thức có thể làm phức tạp hoặc thậm chí gây nguy hiểm cho việc hoàn thành thành công các dự án SDLC.
+
+- Nằm trong phạm vi dự án
+- Yêu cầu được xác định kém
+- Xác định mức độ thử nghiệm tối ưu
+- Bảo mật cập nhật và bảo trì phần mềm
+
+///Staying within the project scope///
+Phạm vi leo thang—khi các yêu cầu của dự án mở rộng ra ngoài kế hoạch ban đầu—có thể khiến các nhóm phát triển phần mềm tiêu tốn ngân sách và tốn nhiều công sức hơn mà thu được rất ít lợi ích thực sự. Thông thường, những yêu cầu bổ sung này không phục vụ mục đích cốt lõi của phần mềm và thậm chí có thể làm chệch hướng phát triển tối ưu.
+
+Nỗ lực không ngừng hướng tới sự hoàn hảo cũng có thể làm sai lệch phạm vi của dự án. Một số ứng dụng phần mềm có độ nhạy cao có thể cần phải gần như hoàn hảo, nhưng đối với hầu hết vòng đời phát triển phần mềm, sự hoàn hảo là kẻ thù của điều tốt. Một bản phát hành có chức năng, nếu không hoàn hảo, có thể được tung ra thị trường nhanh hơn và có thể được cải thiện thông qua các vòng bảo trì sau triển khai lặp đi lặp lại.
+
+///Poorly defined requirements///
+Nếu một nhóm không phân tích kỹ lưỡng và hiểu rõ các yêu cầu của dự án ngay từ đầu, nhóm đó có thể phải trải qua nhiều chu trình làm việc lãng phí trước khi khám phá ra nhu cầu thực tế của phần mềm. Điều này có thể trì hoãn đáng kể việc phát hành và tăng chi phí dự án.
+
+///Determining the optimal level of testing///
+Kiểm thử phần mềm có thể chiếm gần 33% chi phí phát triển hệ thống. Để tăng tốc độ đầu ra và cắt giảm chi phí, các tổ chức có thể hạn chế thử nghiệm—và phải trả giá sau này, khi các lỗi không xác định và các vấn đề về hiệu suất gây ra vấn đề nghiêm trọng cho người dùng cuối.
+
+Điều ngược lại cũng có thể là một vấn đề: Đưa phần mềm qua nhiều thử nghiệm hơn mức cần thiết trước khi ra mắt. Nhằm mục đích loại bỏ tất cả các lỗi, các nhóm phát triển có thể sẽ trì hoãn việc phát hành phần mềm bằng nhiều vòng thử nghiệm không liên quan.
+
+///Securing software updates and maintenance processes///
+Theo Chỉ số thông minh về mối đe dọa của IBM® X-Force®, các cuộc tấn công chuỗi cung ứng—trong đó tội phạm mạng nhắm mục tiêu một cách chiến lược vào các nhà cung cấp bên thứ ba để tác động đến nhiều tổ chức—đang gia tăng.
+
+Một phương thức tấn công phổ biến ở các nhà cung cấp phần mềm là chiếm quyền điều khiển quá trình cập nhật phần mềm để phát tán phần mềm độc hại thay vì bản cập nhật hợp pháp. Ví dụ: vào năm 2020, nhà cung cấp phần mềm SolarWinds đã bị tấn công và các tác nhân độc hại đã phân phối phần mềm độc hại cho khách hàng của họ dưới chiêu bài cập nhật phần mềm. Phần mềm độc hại cho phép truy cập vào dữ liệu nhạy cảm của nhiều cơ quan chính phủ Hoa Kỳ bằng cách sử dụng các dịch vụ của SolarWinds, bao gồm Bộ Tài chính, Tư pháp và Ngoại giao.
+
+Các nhóm phát triển phải tính đến các biện pháp bảo mật ứng dụng trong quá trình cập nhật và bảo trì sau triển khai. Nếu rơi vào tay kẻ xấu, những quá trình này có thể trở thành vũ khí hủy diệt.

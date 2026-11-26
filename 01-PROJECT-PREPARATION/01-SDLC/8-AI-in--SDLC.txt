@@ -1,0 +1,8 @@
+///AI in the SDLC///
+Viện Kỹ sư Điện và Điện tử (IEEE) báo cáo rằng 35% tổ chức trong các ngành đang sử dụng trí tuệ nhân tạo (AI) để hỗ trợ hoặc tăng tốc độ phát triển phần mềm. Tuy nhiên, việc kết hợp AI vào SDLC cũng có thể đặt ra một số thách thức.
+
+Nhiều nhóm phát triển đang tích hợp các công cụ AI tổng quát vào tất cả các giai đoạn của SDLC để đạt được nhiều mục đích hơn là chỉ tự động hóa đơn giản. Ví dụ: các công cụ mã hóa thế hệ AI có thể tạo nguyên mẫu phần mềm, tạo các đoạn mã có thể sử dụng lại và giúp các nhà phát triển tinh chỉnh mã của riêng họ. Họ cũng có thể giúp gắn cờ và giải thích các lỗi trong mã, đồng thời phân tích dữ liệu thử nghiệm để xác định xu hướng và kiểu mẫu về hiệu suất và lỗi phần mềm.
+
+Tuy nhiên, với tất cả những hứa hẹn của các công cụ AI, chúng không phải là không có rủi ro. Các công cụ AI có thể mắc lỗi và viết mã không được tối ưu hóa. Nếu các nhà phát triển không xem xét cẩn thận tất cả mã do các công cụ AI tạo ra, thì những công cụ này có thể gây ra các lỗi phần mềm tốn kém mà mãi đến sau này trong vòng đời mới được phát hiện. 
+
+Cân bằng chất lượng và tốc độ cũng có thể là một vấn đề. Các nhà phát triển có thể viết mã nhanh hơn nhiều bằng các công cụ AI, có khả năng tăng tốc SDLC. Tuy nhiên, việc đảm bảo chất lượng của những kết quả đầu ra này có thể yêu cầu sự giám sát và xác nhận đáng kể của con người, điều này có khả năng đảo ngược khoản tiết kiệm thời gian đó. Vấn đề nan giải ở đây là tìm ra sự cân bằng phù hợp giữa tốc độ của AI và duy trì các tiêu chuẩn cao về chất lượng phần mềm.

@@ -1,0 +1,4 @@
+///DevSecOps and the software development lifecycle///
+DevSecOps, đôi khi được gọi là “secure DevOps”, tích hợp các biện pháp bảo mật và kiểm tra bảo mật tự động vào mô hình DevOps. Trong khi quá trình phát triển phần mềm truyền thống coi việc kiểm tra bảo mật là một giai đoạn riêng thì DevSecOps sẽ kết hợp các cân nhắc về bảo mật vào mọi giai đoạn của SDLC.
+
+Bằng cách xâu chuỗi các bài kiểm tra bảo mật như đánh giá mã và kiểm tra thâm nhập trong suốt vòng đời phát triển, các nhóm có thể tránh được một số sự chậm trễ phát sinh từ các yếu tố như lỗ hổng được xác định muộn trong quy trình. Họ có thể giải quyết các vấn đề quản lý rủi ro sớm hơn, tạo ra các chương trình an toàn hơn, đẩy nhanh quá trình khắc phục lỗ hổng và cung cấp phần mềm tiết kiệm chi phí hơn.

@@ -1,0 +1,8 @@
+///DevOps and the SDLC///
+DevOps là một phương pháp phát triển phần mềm kết hợp và tự động hóa công việc của cả nhóm phát triển phần mềm và nhóm vận hành CNTT. Vòng đời DevOps có các bước riêng, tương tự như các bước của SDLC. Nhưng DevOps cấu hình lại các bước của SDLC để tạo ra một chu trình liên tục cho việc phát triển và cải tiến phần mềm.
+
+Các nguyên tắc cốt lõi của phương pháp DevOps là cộng tác, tự động hóa, tích hợp liên tục và phân phối liên tục (CI/CD). Bởi vì DevOps giải quyết toàn bộ quy trình phát triển phần mềm nên nó có thể được coi là một vòng đời phát triển phần mềm theo đúng nghĩa của nó. 
+
+Nhưng DevOps còn lớn hơn thế, bao gồm sự thay đổi về văn hóa và tổ chức theo hướng chia sẻ trách nhiệm và hợp tác. Điều quan trọng, DevOps không phải là một mô hình đơn lẻ mà là sự kết hợp giữa thực tiễn, công cụ và triết lý văn hóa.
+
+DevOps giải quyết tính cứng nhắc của SDLC bằng cách thực hiện liên tục từng giai đoạn của quá trình phát triển phần mềm trong suốt dự án. Thay vì bị giới hạn ở các bước riêng biệt, việc lập kế hoạch, mã hóa, thử nghiệm, triển khai, bảo trì và giám sát đều tiếp tục diễn ra trong suốt vòng đời của sản phẩm. Kết quả là một quy trình phân phối liên tục trong đó phần mềm được cải tiến thông qua các bản cập nhật thường xuyên.

@@ -1,0 +1,55 @@
+///Common software development lifecycle models///
+Waterfall
+V-model
+Agile
+Lean
+Iterative
+Spiral
+Big bang
+Rapid application development (RAD)
+
+Việc chọn mô hình SDLC phù hợp phụ thuộc vào nhiều yếu tố khác nhau. Các yêu cầu của dự án có được xác định rõ ràng hoặc có khả năng thay đổi trong quá trình phát triển không? Dự án phức tạp như thế nào? Đội ngũ phát triển có kinh nghiệm như thế nào? Trả lời những câu hỏi này có thể giúp các bên liên quan lựa chọn mô hình phù hợp nhất cho dự án.
+
+///Waterfall///
+Mô hình thác nước là một mô hình phát triển phần mềm tuyến tính và tuần tự, trong đó một giai đoạn được hoàn thành trước khi giai đoạn tiếp theo bắt đầu. Nó cung cấp một quy trình có cấu trúc, có thể dự đoán được, hoạt động tốt cho các dự án ổn định, được xác định rõ ràng, nơi các bên liên quan chỉ muốn tham gia trong quá trình đánh giá các mốc quan trọng.
+
+Mô hình này không linh hoạt lắm vì nó yêu cầu hoàn thành từng giai đoạn trước khi bắt đầu giai đoạn mới. Điều này có thể làm cho việc sửa chữa công việc ở các giai đoạn trước sau khi hoàn thành trở nên khó khăn và mất thời gian.
+
+Mặc dù mô hình thác nước ngày nay ít phổ biến hơn trước đây, nhưng nó là nền tảng cho nhiều mô hình SDLC tiếp theo
+
+///V-model///
+Mô hình chữ V hay mô hình hình chữ V là một biến thể của mô hình thác nước và đôi khi được gọi là mô hình “xác minh và xác nhận”. Trong mô hình chữ V, mỗi giai đoạn của SDLC đều có giai đoạn thử nghiệm đi kèm.
+
+Kiểm tra thường xuyên giúp loại bỏ lỗi sớm, nhưng cấu trúc tuyến tính làm cho chữ V (giống như mô hình thác nước) kém linh hoạt hơn các phương pháp khác. Tuy nhiên, nó hoạt động tốt đối với những phần mềm có yêu cầu ổn định, đòi hỏi phải kiểm tra thường xuyên.
+
+///Agile///
+Mô hình linh hoạt chạy trên các chu kỳ phát triển và cải tiến liên tục—thường được gọi là “chạy nước rút”—trong đó các nhà phát triển thường xuyên thực hiện và đưa ra các thay đổi nhỏ, tăng dần. Nó rất phù hợp với các dự án mà khách hàng sẵn sàng và có thể tham gia vào các cuộc thảo luận và đánh giá tiến độ thường xuyên.
+
+Phát triển linh hoạt đáp ứng các yêu cầu hoặc yêu cầu thay đổi, cho phép các nhóm dễ dàng xác định các vấn đề hơn trong quá trình phát triển. Khả năng phản hồi này dẫn đến một trong những lợi ích lớn nhất của việc phát triển phần mềm linh hoạt: Nhóm phát triển có thể giải quyết các vấn đề trước khi họ lao vào các vấn đề lớn hơn.
+
+Các biến thể của phương pháp linh hoạt—đôi khi được gọi là “khuôn khổ”—xác định vai trò trong nhóm phát triển để hợp lý hóa quy trình hơn nữa. Hai trong số các khung linh hoạt phổ biến nhất là scrum và kanban. (Để biết thêm thông tin, hãy xem “SDLC, linh hoạt và scrum.”)
+
+///Lean///
+Mô hình tinh gọn áp dụng các nguyên tắc và thực tiễn sản xuất vào phát triển phần mềm để giảm lãng phí ở mọi bước của SDLC.
+
+Lean nhằm mục đích liên tục cải tiến quy trình kinh doanh trong quá trình phát triển. Các nhóm thường xuyên đặt ra các mục tiêu ngắn hạn với tiêu chuẩn cao về đảm bảo chất lượng ở mỗi bước phát triển.
+
+Để giảm bớt sự cồng kềnh và tăng tốc quá trình, Lean ưu tiên việc lặp lại và các vòng phản hồi nhanh hơn. Mô hình này loại bỏ các quy trình quan liêu để ra quyết định và trì hoãn việc thực hiện các quyết định cho đến khi có được dữ liệu chính xác.
+
+///Iterative///
+Trong mô hình lặp, phiên bản ban đầu của phần mềm—hoặc sản phẩm khả thi tối thiểu (MVP)—được tạo nhanh chóng và sau đó được cải thiện nhanh chóng với các phiên bản tiếp theo. Mô hình này tập trung vào việc bắt đầu với một mục tiêu nhỏ và sau đó xây dựng phần mềm từ đó.
+
+///Spiral///
+Trong mô hình xoắn ốc, bốn giai đoạn—xác định mục tiêu, phân tích nguồn lực và rủi ro, phát triển, thử nghiệm và lập kế hoạch cho lần lặp tiếp theo—xảy ra trong một chu kỳ lặp lại, do đó có tên là “xoắn ốc”.
+
+Với việc lặp lại thường xuyên bốn giai đoạn này, sẽ có nhiều cơ hội điều chỉnh, khiến mô hình này trở nên lý tưởng cho các dự án có rủi ro cao hoặc phức tạp, nơi dự kiến ​​sẽ có những thay đổi thường xuyên.
+
+///Bigbang///
+Vụ nổ lớn là một hình thức phát triển phần mềm không chính thức và không có cấu trúc, thiếu định nghĩa chặt chẽ về các mô hình thường được liên kết với SDLC.
+
+Giống như lý thuyết vụ nổ lớn, mô hình này bắt đầu từ con số không - không lập kế hoạch hay phân tích yêu cầu. Nó được coi là có rủi ro cao, nhưng mô hình vụ nổ lớn có thể hoạt động tốt đối với các dự án nhỏ nơi các tham số có thể tự giải thích được, khiến việc lập kế hoạch và quản lý chi tiết trở nên không cần thiết. Thay vào đó, big bang dựa vào phản hồi của người thử nghiệm và người dùng để cập nhật phần mềm đặc biệt trong quá trình phát triển.
+
+///Rapid application development (RAD)///
+Đúng như tên gọi của mô hình, việc phát triển ứng dụng nhanh (RAD) dựa vào việc tạo mẫu nhanh và phản hồi của người dùng thay vì thời gian lập kế hoạch dài. Cấu trúc này cho phép nhóm RAD nhanh chóng thích ứng với nhu cầu và yêu cầu mới của người dùng.
+
+Mặc dù tương tự như phát triển phần mềm big bang, RAD có xu hướng theo dõi tiến trình thường xuyên hơn và cung cấp cơ hội thường xuyên cho người dùng và khách hàng đóng góp ý kiến. Cấu trúc bổ sung này làm cho RAD trở nên khả thi đối với các dự án lớn hơn và phức tạp hơn.

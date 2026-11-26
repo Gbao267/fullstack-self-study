@@ -1,4 +1,0 @@
-SDLC nghĩa là Software Development lifecycle
-
-Vòng đời phát triển phần mềm (SDLC) là một phương pháp có cấu trúc và lặp đi lặp lại được các nhóm phát triển sử dụng để xây dựng, cung cấp và duy trì các hệ thống phần mềm chất lượng cao và tiết kiệm chi phí.
-

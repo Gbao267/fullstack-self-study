@@ -1,0 +1,35 @@
+///SDLC benefits///
+SDLC cung cấp cho các nhóm phát triển một cấu trúc được tiêu chuẩn hóa và quy trình có thể lặp lại, giúp dễ dàng tạo ra phần mềm chất lượng cao một cách nhất quán. Những lợi ích của SDLC bao gồm:
+
+- Phần mềm tốt hơn
+- Cải thiện năng suất
+- Rủi ro giảm thiểu
+- Cải thiện tính minh bạch của dự án
+- Hợp tác lớn hơn
+- Quản lý tài nguyên hiệu quả hơn
+- Cải thiện sự hài lòng của khách hàng
+
+///Better software///
+SDLC cung cấp bản đồ giúp các nhóm hoàn thành các dự án phát triển phần mềm phức tạp trong khung thời gian đã lên lịch và ước tính chi phí. Ngoài ra, nó nhấn mạnh việc kiểm tra và đảm bảo chất lượng như một phần của quy trình, nâng cao chất lượng mã và sản phẩm tổng thể.
+
+///Increased productivity///
+Cấu trúc của SDLC giúp hợp lý hóa các dự án và loại bỏ phỏng đoán. Với tài liệu rõ ràng hướng dẫn tiến độ giữa các giai đoạn, SDLC có thể giảm thời gian sản xuất phần mềm và tăng năng suất phát triển.
+
+///Minimized risk///
+SDLC có thể giúp các tổ chức dự đoán và quản lý rủi ro dự án. Trong một số mô hình SDLC, việc đánh giá rủi ro được thực hiện liên tục trong suốt quá trình phát triển. Nhóm phát triển có thể xác định và giảm thiểu rủi ro sớm hơn trong vòng đời phát triển phần mềm, trước khi các vấn đề nhỏ có thể phát triển thành vấn đề lớn hơn.
+
+///Improved project transparency///
+SDLC thúc đẩy tính minh bạch thông qua tài liệu được tiêu chuẩn hóa và các đường dây liên lạc mở.
+
+Hầu hết các mô hình SDLC đều có các quy trình xác định để thông báo cho các bên liên quan về những gì đã hoàn thành, những gì cần phải hoàn thành và trách nhiệm cá nhân của họ là gì. Được trang bị kiến ​​thức này, các bên liên quan có thể hiểu được công việc trước mắt và hoàn thành nhiệm vụ của mình một cách hiệu quả hơn.
+
+///Greater collaboration///
+Tính minh bạch của SDLC cũng có thể thúc đẩy sự hợp tác tốt hơn. Các bên liên quan có thể liên kết và trao đổi cởi mở về các mục tiêu và điểm yếu. Trong một số mô hình và phương pháp, các thành viên trong nhóm được khuyến khích thành lập các nhóm nhỏ, có tính hợp tác cao để tìm ra giải pháp sáng tạo cho các vấn đề phát triển.
+
+///More efficient resource management///
+Ước tính chi phí phát triển tổng thể là một phần quan trọng của quy trình SDLC. Các bên liên quan hiểu các nguồn lực cần thiết để hoàn thành dự án trước khi bắt đầu phát triển. Lập kế hoạch trước cho các yêu cầu về nguồn lực có thể giúp giảm bớt sự cồng kềnh và giữ cho các dự án đúng tiến độ và ngân sách.
+
+///Improved customer satisfaction///
+SDLC hoạt động như một lộ trình cho việc lập kế hoạch, xây dựng và thử nghiệm phần mềm một cách nghiêm ngặt. Lộ trình này giúp vòng đời phát triển tập trung hơn, có thể giúp giảm bớt sự cồng kềnh về tính năng, giúp phần mềm dễ sử dụng hơn và giúp đảm bảo phần mềm phù hợp với bối cảnh CNTT hiện tại của tổ chức.
+
+Phần mềm đã được kiểm tra kỹ lưỡng cũng sẽ có ít lỗi hơn khi triển khai.
