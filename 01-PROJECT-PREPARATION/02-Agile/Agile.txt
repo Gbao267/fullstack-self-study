@@ -1,0 +1,89 @@
+What is Agile?
+Understanding the Agile methodology
+https://www.atlassian.com/agile
+
+Agile là một cách tiếp cận linh hoạt, lặp đi lặp lại để quản lý dự án, nhấn mạnh vào sự hợp tác, phân phối liên tục và khả năng thích ứng.
+
+Phương pháp Agile coi trọng con người, phản hồi của khách hàng và các giải pháp làm việc thay vì các quy trình và tài liệu cứng nhắc.
+
+Các nhóm điều chỉnh các phương pháp thực hành Agile theo nhu cầu của họ, kết hợp các khuôn khổ như Scrum và Kanban để có kết quả tối ưu.
+
+Thử nghiệm các phương pháp thực hành Agile và thường xuyên đánh giá tính hiệu quả của chúng để thúc đẩy sự cải tiến liên tục và hợp tác nhóm.
+
+///What is the Agile methodology?///
+Phương pháp Agile là một cách tiếp cận chia công việc thành các giai đoạn, nhấn mạnh vào việc phân phối và cải tiến liên tục. Agile mang lại lợi ích cho các nhóm bằng cách cho phép lập kế hoạch thích ứng, thực hiện nhanh chóng và đánh giá liên tục, mang lại kết quả thành công và phản hồi nhanh hơn.
+
+Phương pháp Agile ban đầu được phát triển từ Tuyên ngôn Agile vào năm 2001. Kể từ đó, một số khung Agile đã xuất hiện, bao gồm Scrum, Kanban, Lean và Extreme Programming (XP).
+
+Tuyên ngôn Agile ban đầu không quy định thời gian lặp lại là hai tuần hoặc quy mô nhóm lý tưởng. Nó đặt ra một tập hợp các giá trị cốt lõi đặt con người lên hàng đầu.
+
+///How is Agile evolving with AI?////
+Hơn 25 năm sau, Agile tiếp tục phát triển với sự tích hợp giữa AI và kỹ thuật tác tử. Điều này trao quyền cho các nhóm Agile tự động hóa quy trình công việc, nâng cao khả năng ra quyết định và thúc đẩy cải tiến liên tục.
+
+Trong khi người quản lý dự án hoặc chủ sở hữu sản phẩm thường ưu tiên công việc được giao thì nhóm sẽ chủ trì quyết định cách thức thực hiện công việc bằng cách tự tổ chức xung quanh các nhiệm vụ và nhiệm vụ chi tiết. Agile không được xác định bởi một tập hợp các nghi thức hoặc kỹ thuật phát triển cụ thể.
+
+Tuy nhiên, Agile sử dụng các nhóm cộng tác, đa chức năng để nhấn mạnh đến giao tiếp cởi mở, làm việc nhóm, khả năng thích ứng và sự tin cậy. Quy trình làm việc của nhóm bạn phụ thuộc vào những yếu tố này, đó là lý do tại sao việc có cái nhìn chi tiết, minh bạch về quy trình của bạn sẽ giúp ích cho mọi người.
+
+Cho dù bạn theo dõi Scrum theo cuốn sách, kết hợp các yếu tố của Kanban và XP hay ưu tiên phương pháp kỹ thuật tác tử, thì điều đó hoàn toàn tùy thuộc vào bạn và nhóm của bạn để điều chỉnh bất kỳ điều gì hỗ trợ tốt nhất cho mục tiêu và cách làm việc của bạn.
+
+///Why choose Agile?///
+Các nhóm chọn phương pháp Agile để đáp ứng nhanh chóng những thay đổi trên thị trường hoặc phản hồi của khách hàng. Điều này giúp các nhóm tránh làm chệch hướng các kế hoạch trong năm bằng cách thực hiện từng bước nhỏ, thường xuyên với tư duy “lập kế hoạch vừa đủ”.
+
+Điều này cho phép nhóm của bạn thu thập phản hồi về từng thay đổi và tích hợp nó vào các kế hoạch trong tương lai với chi phí tối thiểu. Với việc bổ sung các công cụ hỗ trợ AI và hệ thống tác nhân, các nhóm sẽ ứng phó với sự thay đổi hiệu quả hơn bằng cách cung cấp thông tin chi tiết theo thời gian thực và tự động hóa các quy trình thông thường.
+
+///The Agile mindset requires human interactions///
+Tuy nhiên, nó không chỉ là numbers game. Đó là về con người. Ngay cả với các tác nhân AI, các hệ thống này vẫn phải hoạt động cùng với công nhân. Và điều này phản ánh các nguyên tắc ban đầu của Tuyên ngôn Agile rằng sự tương tác đích thực của con người quan trọng hơn các quy trình cứng nhắc.
+
+Thay vào đó, việc cộng tác với khách hàng và đồng đội sẽ có ý nghĩa hơn những thỏa thuận được xác định trước. Đó không chỉ là cung cấp tài liệu siêu chi tiết mà còn cung cấp giải pháp hiệu quả cho vấn đề của khách hàng.
+
+Một nhóm Agile đoàn kết dưới một tầm nhìn chung, sau đó biến tầm nhìn đó thành hiện thực theo cách mà họ biết là tốt nhất. Mỗi nhóm đặt ra các tiêu chuẩn riêng về chất lượng, khả năng sử dụng và tính đầy đủ.
+
+Định nghĩa 'hoàn thành' của họ sẽ cho biết họ sẽ hoàn thành công việc nhanh như thế nào. Mặc dù ban đầu điều này có thể đáng sợ, nhưng các nhà lãnh đạo công ty nhận thấy rằng khi họ đặt niềm tin vào một nhóm Agile, nhóm đó sẽ cảm thấy có quyền sở hữu cao hơn và đáp ứng (hoặc vượt quá) mong đợi.
+
+///How to adapt Agile frameworks to your team///
+Mỗi khung Agile thể hiện các nguyên tắc cốt lõi của việc lặp lại thường xuyên, học hỏi liên tục và chất lượng cao. Việc chọn đúng framework phụ thuộc vào nhu cầu của nhóm bạn.
+
+Ví dụ: Scrum và XP phổ biến trong phát triển phần mềm, trong khi Kanban thường được sử dụng bởi các nhóm tiếp thị Agile và định hướng dịch vụ như CNTT hoặc Nhân sự.
+
+Nhiều nhóm Agile kết hợp các phương pháp thực hành từ các phương pháp hoặc khuôn khổ quản lý dự án khác nhau. Các nhóm áp dụng các quy trình như độc lập, phản hồi và tồn đọng hoặc phát triển các phương pháp tiếp cận mới với tác nhân AI để tự động hóa các nhiệm vụ và thúc đẩy cải tiến liên tục.
+
+Với các công cụ quản lý dự án AI, các nhóm tự động hóa công việc thường lệ, phát hiện các điểm nghẽn của dự án và thu thập thông tin chi tiết theo thời gian thực—giúp dễ dàng điều chỉnh chiến lược và tối ưu hóa hiệu suất một cách nhanh chóng.
+
+///Atlassian’s stance on Agile///
+Cách mỗi nhóm thực hành Agile phải phù hợp với nhu cầu và văn hóa của họ. Không có hai nhóm nào trong Atlassian có quy trình làm việc giống hệt nhau.
+
+Mặc dù nhiều người tổ chức công việc trong các lần chạy nước rút Scrum, ước tính điểm câu chuyện và ưu tiên các hồ sơ tồn đọng, nhưng chúng tôi không tuân thủ nghiêm ngặt bất kỳ phương pháp đơn lẻ nào. Chúng tôi tin rằng mọi nhóm đều phải có các tính năng truy cập để giúp bạn làm việc trong khuôn khổ của mình.
+
+Nhóm của bạn phải có quyền tự chủ trong việc lựa chọn các phương pháp giúp họ hoạt động hiệu quả nhất và chúng tôi khuyến khích bạn làm điều tương tự. Atlassian cũng nhấn mạnh các phương pháp thực hành theo vòng lặp của con người.
+
+AI không nên thay thế các nhóm Agile nhưng sẽ giúp họ kéo bối cảnh giữa các dự án, bộ phận và mã. Sự kết hợp này giúp đưa ra quyết định sáng suốt dễ dàng hơn.
+
+Cuối cùng, chìa khóa của Agile là tư duy cải tiến liên tục. Hãy thử nghiệm các phương pháp thực hành khác nhau, thảo luận chúng một cách cởi mở và giữ lại những gì phù hợp với nhóm của bạn.
+
+///Agile Frequently Asked Questions///
+///What are the 5 C's of Agile?
+5C của Agile là:
+
+1. Giao tiếp (Communication)
+2. Hợp tác (Collaboration)
+3. Cam kết (Commitment)
+4. Khách hàng (Customer)
+5. Cải tiến liên tục (Continuous Improvement)
+Những nguyên tắc này nhấn mạnh đến sự giao tiếp cởi mở, làm việc nhóm và cống hiến cho các mục tiêu. Họ cũng ưu tiên cách tiếp cận lấy khách hàng làm trung tâm và phản ánh liên tục để cải thiện các quy trình.
+
+Cùng nhau, họ hướng dẫn các nhóm Agile trong việc mang lại giá trị một cách hiệu quả và thích ứng với sự thay đổi.
+
+///What are the benefits of Agile?
+Agile cho phép các nhóm thích ứng nhanh chóng với sự thay đổi, mang lại giá trị theo từng bước nhỏ và liên tục cải tiến. Cách tiếp cận này dẫn đến phản hồi nhanh hơn, cộng tác tốt hơn và kết quả dự án thành công hơn.
+
+///What are the core Values of the Agile Manifesto?
+Các giá trị cốt lõi của Tuyên ngôn Agile là:
+
+Các cá nhân và sự tương tác qua các quy trình và công cụ
+Phần mềm làm việc trên tài liệu toàn diện
+Hợp tác của khách hàng thông qua đàm phán hợp đồng
+Đáp lại sự thay đổi theo kế hoạch
+Những giá trị này nhấn mạnh đến con người, sự hợp tác và khả năng thích ứng.
+
+///What are the common agile frameworks?
+Các khung Agile phổ biến bao gồm Scrum, Kanban, Lean và Extreme Programming (XP). Mỗi khung hỗ trợ lặp lại thường xuyên, học tập liên tục và chất lượng cao theo cách riêng của nó.
