@@ -1,0 +1,6 @@
+///Why is requirements management important?///
+Sản phẩm chỉ tốt khi có những yêu cầu thúc đẩy chúng. Quản lý yêu cầu đảm bảo rằng các dự án đáp ứng một cách hiệu quả nhu cầu và mong đợi của các bên liên quan và người dùng. Quản lý yêu cầu giảm thiểu khả năng xảy ra lỗi, rủi ro và chi phí đồng thời cho phép phân phối, tái sử dụng và truy xuất nguồn gốc nhanh hơn.
+
+Ngày nay, việc quản lý yêu cầu đặc biệt quan trọng vì Internet of Things (IoT) đã thay đổi không chỉ cách thức hoạt động của sản phẩm mà còn cả quy trình thiết kế và phát triển của chúng. Các sản phẩm liên tục trở nên “thông minh hơn” và phức tạp hơn, với nhiều dòng mã và phần mềm bổ sung hơn. Quản lý yêu cầu giúp doanh nghiệp vượt qua sự phức tạp và phụ thuộc lẫn nhau trong vòng đời kỹ thuật và phát triển phần mềm ngày nay để hợp lý hóa việc phát triển sản phẩm và đẩy nhanh quá trình triển khai.
+
+Các vấn đề trong quản lý yêu cầu thường được coi là nguyên nhân chính dẫn đến thất bại của dự án. Các yêu cầu được xác định không đầy đủ có thể dẫn đến leo thang phạm vi, chậm trễ dự án, vượt chi phí và chất lượng sản phẩm kém, không đáp ứng được nhu cầu và yêu cầu an toàn của các bên liên quan.

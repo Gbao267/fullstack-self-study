@@ -1,5 +1,5 @@
-///Purpose of the Scrum Guide/// 
-https://scrumguides.org/scrum-guide.html
+///Purpose of the Scrum Guide/// - https://scrumguides.org/scrum-guide.html
+
 Chúng tôi đã phát triển Scrum vào đầu những năm 1990. Chúng tôi đã viết phiên bản đầu tiên của Hướng dẫn Scrum vào năm 2010 để giúp mọi người trên toàn thế giới hiểu về Scrum. Kể từ đó, chúng tôi đã phát triển Hướng dẫn này thông qua các bản cập nhật nhỏ mang tính chức năng. Cùng nhau, chúng ta đứng đằng sau nó.
 
 Hướng dẫn Scrum chứa định nghĩa về Scrum. Mỗi thành phần của khung phục vụ một mục đích cụ thể cần thiết cho giá trị và kết quả tổng thể đạt được nhờ Scrum. Việc thay đổi thiết kế hoặc ý tưởng cốt lõi của Scrum, loại bỏ các yếu tố hoặc không tuân theo các quy tắc của Scrum, sẽ che giấu các vấn đề và hạn chế lợi ích của Scrum, thậm chí có thể khiến nó trở nên vô dụng.

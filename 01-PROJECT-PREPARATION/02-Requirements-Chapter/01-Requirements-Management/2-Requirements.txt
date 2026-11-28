@@ -1,0 +1,8 @@
+///What are requirements?///
+Theo IEEE, requirement được định nghĩa là:
+
+"(1) Một điều kiện hoặc khả năng mà người dùng cần để giải quyết một vấn đề hoặc đạt được một mục tiêu. (2) Một điều kiện hoặc khả năng phải được đáp ứng hoặc sở hữu bởi một hệ thống hoặc thành phần hệ thống để đáp ứng hợp đồng, tiêu chuẩn, thông số kỹ thuật hoặc các tài liệu chính thức khác được áp đặt. (3) Một bản trình bày bằng văn bản về một điều kiện hoặc khả năng như trong (1) hoặc (2)."
+
+Nghĩa là, yêu cầu là bất kỳ thông tin nào liên quan đến mong đợi của các bên liên quan và nhu cầu của người dùng đối với một hệ thống, sản phẩm hoặc ứng dụng mới. Những mong đợi và nhu cầu này có thể bao gồm các yêu cầu bằng văn bản, trường hợp sử dụng, sơ đồ và mô tả tính năng. Trong bối cảnh linh hoạt, các yêu cầu bao gồm các câu chuyện và sử thi của người dùng.
+
+Các nhóm dự án cũng sử dụng các yêu cầu để nắm bắt thông tin có thể không có trong sản phẩm tồn đọng. Ví dụ, các yêu cầu có thể bao gồm thông tin liên quan đến các yêu cầu phi chức năng, mô tả tính năng, ghi chú cuộc họp các bên liên quan và các quyết định về kiến ​​trúc.

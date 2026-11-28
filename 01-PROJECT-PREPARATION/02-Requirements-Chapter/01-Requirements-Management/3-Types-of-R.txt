@@ -1,0 +1,28 @@
+///What are the different types of requirements?///
+Có ba loại yêu cầu được coi phổ biến:
+
+///Business requirements
+Những yêu cầu này là những kỳ vọng, số liệu và nhu cầu kinh doanh phải được đáp ứng để hệ thống hoàn thành mục tiêu của tổ chức.
+
+////User or stakeholder requirements
+Những yêu cầu này xác định các tính năng và chức năng của hệ thống cần thiết để đáp ứng mong đợi và nhu cầu của người dùng cuối.
+
+///System requirements
+Còn được gọi là yêu cầu kỹ thuật, những yêu cầu này bao gồm thông tin chi tiết về công nghệ cơ bản có vai trò quan trọng đối với sự thành công của sản phẩm bàn giao.
+
+Các yêu cầu cũng có thể được phân thành ba loại: chức năng, phi chức năng và miền.
+
+/Functional requirements
+Yêu cầu chức năng đề cập đến chức năng của một hệ thống, sản phẩm hoặc ứng dụng mới. Những yêu cầu này có thể đo lường được và quan trọng để đáp ứng mong đợi và nhu cầu của người dùng cuối.
+
+Ví dụ: Phần mềm phải cho phép người dùng đăng nhập bằng tài khoản IBM của họ.
+
+/Nonfunctional requirements
+Yêu cầu phi chức năng đề cập đến hiệu suất của các yêu cầu chức năng của hệ thống, sản phẩm hoặc ứng dụng. Ví dụ: tính bảo mật, độ tin cậy và khả năng sử dụng của hệ thống đều là các yêu cầu phi chức năng.
+
+Ví dụ: Cổng ngân hàng trực tuyến sẽ tải đầy đủ trong vòng ba giây sau khi đăng nhập.
+
+/Domain requirements
+Yêu cầu về miền đề cập đến các quy định, tiêu chuẩn, quy tắc và thuật ngữ cụ thể trong một ngành hoặc miền mà hệ thống, sản phẩm hoặc ứng dụng phải tuân thủ.
+
+Ví dụ: Ứng dụng chăm sóc sức khỏe phải tuân thủ các yêu cầu của Đạo luật về trách nhiệm giải trình và cung cấp thông tin bảo hiểm y tế (HIPAA).

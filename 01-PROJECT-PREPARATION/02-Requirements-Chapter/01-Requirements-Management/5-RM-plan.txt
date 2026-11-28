@@ -1,0 +1,6 @@
+///What is a requirements management plan (RMP)?///
+Kế hoạch quản lý yêu cầu (RMP) giúp giải thích cách nhóm dự án tiếp nhận, phân tích, ghi chép và quản lý tất cả các yêu cầu trong dự án. Kế hoạch thường bao gồm mọi thứ, từ việc thu thập thông tin ban đầu đến các yêu cầu chi tiết hơn về sản phẩm mà nhóm thu thập trong suốt vòng đời dự án.
+
+Có một số mục chính cần xác định trong kế hoạch quản lý yêu cầu: tổng quan về dự án, quy trình thu thập yêu cầu, vai trò và trách nhiệm, công cụ và khả năng truy xuất nguồn gốc.
+
+Việc có một kế hoạch quản lý yêu cầu là rất quan trọng đối với sự thành công của dự án vì nó cho phép các nhóm kỹ thuật kiểm soát phạm vi dự án và định hướng vòng đời phát triển sản phẩm. Phần mềm quản lý yêu cầu có thể cung cấp các công cụ để thực hiện kế hoạch, giúp giảm chi phí, đẩy nhanh thời gian đưa sản phẩm ra thị trường và cải thiện việc kiểm soát chất lượng.

@@ -1,0 +1,23 @@
+///AI and digital requirements management///
+Theo truyền thống, các kỹ sư hệ thống và nhóm thiết kế sản phẩm sẽ quản lý các yêu cầu bằng cách sử dụng bảng tính Excel, email, wiki và các công cụ khác. Nhưng trong thời đại IoT và độ phức tạp của yêu cầu ngày càng tăng, các nhóm này yêu cầu khả năng hiển thị tốt hơn về các thay đổi, hiểu biết sâu sắc hơn về dữ liệu và các công cụ dùng chung để cộng tác toàn cầu.
+
+Các công cụ quản lý yêu cầu kỹ thuật số giúp theo dõi các thay đổi yêu cầu ở một vị trí an toàn, trung tâm và dễ tiếp cận, cho phép các thành viên trong nhóm cộng tác mạnh mẽ hơn. Tính minh bạch tăng lên giúp giảm thiểu việc làm lại và tăng cường tính linh hoạt đồng thời giúp đảm bảo rằng các yêu cầu tuân thủ các tiêu chuẩn ngành hoặc quy định.
+
+Trí tuệ nhân tạo (AI) tăng cường hơn nữa việc quản lý yêu cầu kỹ thuật số. Công nghệ cho phép máy tính và máy móc mô phỏng quá trình học tập, ra quyết định và quyền tự chủ của con người cũng có thể giúp quản lý dữ liệu ngày càng tăng và độ phức tạp của việc quản lý yêu cầu—cải thiện chất lượng và giảm thời gian chu trình.
+
+Lợi ích của quản lý yêu cầu kỹ thuật số và AI bao gồm:
+
+///Collaboration
+Các giải pháp yêu cầu tự động, dựa trên đám mây cho phép các thành viên trong nhóm làm việc cùng nhau trong thời gian thực, chia sẻ thông tin trong và giữa các tài liệu, bất kể vị trí. Các tổ chức có thể quản lý và giám sát kỹ thuật số toàn bộ quá trình kiểm soát phiên bản và biến thể thông qua bảng thông tin chung và thông báo qua email. Bằng cách này, các nhóm luôn có quyền truy cập vào thông tin mới nhất, chính xác nhất khi họ cần.
+
+///Consistency
+Các công cụ quản lý yêu cầu truyền thống không thể chú thích các đặc tả yêu cầu mà không làm thay đổi cấu trúc và bối cảnh ban đầu. Trong trình xử lý văn bản, người dùng sử dụng các yêu cầu sao chép từ tài liệu sang bảng tính và đồng bộ hóa thủ công các thay đổi trên các phiên bản khác nhau. Quản lý yêu cầu kỹ thuật số cho phép các nhóm tạo mẫu để hợp lý hóa cấu trúc thông tin, cho phép cộng tác toàn cầu và một nguồn thông tin đáng tin cậy duy nhất.
+
+///Traceability
+Những công cụ này có thể tự động hóa việc tạo và duy trì các mối quan hệ trong suốt vòng đời phát triển, bao gồm các mối quan hệ giữa các yêu cầu dự án, hạng mục công việc, kiến ​​trúc, thiết kế và kế hoạch kiểm tra. Ví dụ: họ có thể liên kết các tạo phẩm riêng lẻ với các trường hợp thử nghiệm để có cái nhìn đầy đủ về các thay đổi khi chúng xảy ra. Khả năng truy xuất nguồn gốc tốt hơn cũng giúp các nhóm đạt được sự tuân thủ các yêu cầu kiểm tra hiệu quả hơn. Nó cũng giúp họ hiểu được tác động của những thay đổi để có phản ứng quản lý thay đổi phù hợp hơn.
+
+///Reuse
+Với các giải pháp quản lý yêu cầu kỹ thuật số, các nhóm có thể sử dụng cùng một yêu cầu ở nhiều nơi mà không cần phải xác định lại yêu cầu đó. Tính năng này cho phép các công ty tạo ra các phiên bản, biến thể và nguyên mẫu của sản phẩm và hệ thống một cách hiệu quả hơn. Bản sao “chính” đảm bảo rằng những thay đổi đối với một phiên bản sẽ được triển khai cho tất cả các phiên bản. Các nhóm có thể tạo đường cơ sở để xác định trạng thái của yêu cầu trong thời gian thực nhằm giảm khả năng xảy ra lỗi của người dùng.
+
+///Quality
+Một số công cụ sử dụng khả năng xử lý ngôn ngữ tự nhiên (NLP) để cải thiện tính đầy đủ, nhất quán và chính xác của các yêu cầu khi chúng được viết. Công nghệ tăng cường công việc của con người để loại bỏ sự mơ hồ và tránh những sai sót tốn kém. Học máy (ML) cho phép một công cụ tìm hiểu sắc thái và ngữ cảnh, vì vậy, càng có nhiều nhóm sử dụng thì công cụ đó càng trở nên thông minh hơn.

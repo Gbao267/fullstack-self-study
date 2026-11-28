@@ -1,0 +1,9 @@
+///What is requirements management?/// - https://www.ibm.com/think/topics/what-is-requirements-management
+
+"Quản lý yêu cầu là một phương pháp cho phép các nhóm phát triển ghi lại, theo dõi, phân tích, ưu tiên và thống nhất các yêu cầu trong suốt vòng đời phát triển sản phẩm từ đầu đến cuối."
+
+Mục đích của quản lý yêu cầu là đảm bảo đáp ứng các mục tiêu phát triển phần mềm và sản phẩm. Khi được thực hiện hiệu quả, nó sẽ thúc đẩy giao tiếp với các bên liên quan trong suốt vòng đời kỹ thuật và dự án, đảm bảo rằng sản phẩm cuối cùng đáp ứng mong đợi của họ và nhu cầu của người dùng. Nó cũng có thể giúp các nhóm dự án phát hiện lỗi sớm, giảm chi phí và rủi ro của dự án.
+
+Quản lý yêu cầu có thể được tìm thấy trong quản lý vòng đời ứng dụng (ALM), phát triển phần mềm, công nghệ phần mềm và các phương pháp phát triển linh hoạt. Trong trường hợp quản lý dự án trong các tình huống này đảm bảo dự án được hoàn thành hiệu quả và đúng tiến độ thì quản lý yêu cầu đảm bảo rằng sản phẩm cuối cùng được xây dựng chính xác.
+
+Người quản lý sản phẩm thường chịu trách nhiệm phát triển và quản lý yêu cầu. Tuy nhiên, một bộ yêu cầu có thể bị ảnh hưởng bởi bất kỳ bên liên quan nào, bao gồm khách hàng và đối tác, cũng như các thành viên bán hàng, hỗ trợ, quản lý, kỹ thuật, vận hành và dự án.

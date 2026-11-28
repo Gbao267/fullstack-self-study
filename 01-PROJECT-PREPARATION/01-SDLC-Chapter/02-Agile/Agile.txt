@@ -1,6 +1,4 @@
-What is Agile?
-Understanding the Agile methodology
-https://www.atlassian.com/agile
+What is Agile? - Understanding the Agile methodology - https://www.atlassian.com/agile
 
 Agile là một cách tiếp cận linh hoạt, lặp đi lặp lại để quản lý dự án, nhấn mạnh vào sự hợp tác, phân phối liên tục và khả năng thích ứng.
 

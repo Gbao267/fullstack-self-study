@@ -1,0 +1,16 @@
+///What is the requirements management process?///
+Một quy trình quản lý yêu cầu điển hình bổ sung cho mô hình chữ V kỹ thuật hệ thống, đây là một phương pháp tiếp cận kỹ thuật hệ thống đặt trọng tâm ngang nhau vào cả việc xác minh và xác nhận. Quy trình quản lý yêu cầu có thể thực hiện theo các bước sau:
+
+1. Gợi ý yêu cầu: Thu thập các yêu cầu ban đầu từ các bên liên quan
+2. Phân tích yêu cầu: Phân tích các yêu cầu để đảm bảo hiểu biết đầy đủ về nhu cầu và mong đợi
+3. Định nghĩa yêu cầu: Xác định và ghi lại các yêu cầu được phân tích một cách rõ ràng và ngắn gọn
+4. Ưu tiên các yêu cầu: Ưu tiên các nhu cầu và mong đợi theo những gì có giá trị nhất đối với doanh nghiệp và người dùng cuối
+5. Phê duyệt yêu cầu: Thống nhất các yêu cầu với các bên liên quan và nhận được sự chấp thuận
+6. Truy xuất nguồn gốc yêu cầu: Theo dõi các yêu cầu đối với các hạng mục công việc (hoạt động hoặc nhiệm vụ trong dự án)
+7. Yêu cầu thay đổi yêu cầu: Truy vấn các bên liên quan sau khi thực hiện các thay đổi cần thiết đối với yêu cầu
+8. Xác thực và xác minh yêu cầu: Sử dụng quản lý kiểm tra để xác minh và xác thực các yêu cầu hệ thống
+9. Quản lý thay đổi yêu cầu: Thực hiện phân tích tác động để đánh giá tác động của các thay đổi
+10. Sửa đổi yêu cầu: Sửa đổi yêu cầu theo những thay đổi được đánh giá
+11. Cập nhật tài liệu yêu cầu: Ghi lại các thay đổi trong tài liệu đặc tả yêu cầu phần mềm (SRS), tài liệu yêu cầu sản phẩm (PRD), ma trận truy xuất nguồn gốc yêu cầu (RTM) hoặc loại tài liệu khác
+
+Các bước trong quy trình này có thể giúp các nhóm quản lý sự phức tạp vốn có trong việc phát triển các sản phẩm được kết nối, thông minh. Các giải pháp quản lý yêu cầu cũng có thể giúp hợp lý hóa quy trình, tối ưu hóa tốc độ tiếp cận thị trường, mở rộng cơ hội và cải thiện chất lượng.
