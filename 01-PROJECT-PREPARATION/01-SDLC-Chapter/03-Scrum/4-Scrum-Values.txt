@@ -1,0 +1,8 @@
+///Scrum Values///
+Việc sử dụng Scrum thành công phụ thuộc vào việc con người trở nên thành thạo hơn trong việc sống với năm giá trị:
+
+Cam kết, Tập trung, Cởi mở, Tôn trọng và Can đảm (Commitment, Focus, Openness, Respect, and Courage)
+
+Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Trọng tâm chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể hướng tới những mục tiêu này. Nhóm Scrum và các bên liên quan cởi mở về công việc và những thách thức. Các thành viên trong Nhóm Scrum tôn trọng lẫn nhau là những người có năng lực, độc lập và được tôn trọng như vậy bởi những người họ làm việc cùng. Các thành viên trong Nhóm Scrum có lòng dũng cảm để làm điều đúng đắn, để giải quyết các vấn đề khó khăn.
+
+Những giá trị này định hướng cho Nhóm Scrum về mặt công việc, hành động và ứng xử. Các quyết định được đưa ra, các bước được thực hiện và cách thức sử dụng Scrum phải củng cố các giá trị này, chứ không làm suy giảm hoặc phá hoại chúng. Các thành viên trong Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo tác của Scrum. Khi các giá trị này được thể hiện bởi Nhóm Scrum và những người họ làm việc cùng, các trụ cột Scrum mang tính thực nghiệm gồm sự minh bạch, thanh tra và thích ứng sẽ trở nên sống động, qua đó xây dựng niềm tin.

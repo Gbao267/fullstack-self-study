@@ -1,0 +1,52 @@
+///Scrum Artifacts///
+Các tạo phẩm của Scrum đại diện cho công việc hoặc giá trị. Chúng được thiết kế để tối đa hóa tính minh bạch của thông tin quan trọng. Như vậy, mọi người kiểm tra đều có cơ sở thích ứng như nhau.
+
+Mỗi hiện vật có một cam kết đảm bảo nó cung cấp thông tin giúp tăng cường tính minh bạch và tập trung vào việc đo lường tiến độ:
+
+1. Đối với Product Backlog, đó là Mục tiêu Sản phẩm.
+2. Đối với Sprint Backlog, đó là Mục tiêu Sprint.
+3. Đối với phần Tăng trưởng, đó là Định nghĩa Hoàn thành.
+
+Những cam kết này tồn tại để củng cố chủ nghĩa kinh nghiệm và các giá trị Scrum cho Nhóm Scrum và các bên liên quan của họ.
+
+///Product Backlog
+Product Backlog là một danh sách được sắp xếp theo thứ tự mới nổi về những gì cần thiết để cải tiến sản phẩm. Đây là nguồn công việc duy nhất do Nhóm Scrum thực hiện.
+
+Các hạng mục Product Backlog mà Nhóm Scrum có thể hoàn thành trong một Sprint được coi là đã sẵn sàng để lựa chọn trong sự kiện Lập kế hoạch Sprint. Họ thường đạt được mức độ minh bạch này sau các hoạt động tinh chỉnh. Sàng lọc Product Backlog là hành động chia nhỏ và xác định sâu hơn các hạng mục của Product Backlog thành các hạng mục nhỏ hơn, chính xác hơn. Đây là một hoạt động đang diễn ra để thêm chi tiết, chẳng hạn như mô tả, thứ tự và kích thước. Các thuộc tính thường thay đổi tùy theo lĩnh vực công việc.
+
+Các Nhà phát triển sẽ thực hiện công việc sẽ chịu trách nhiệm về kích thước. Chủ sở hữu sản phẩm có thể tác động đến Nhà phát triển bằng cách giúp họ hiểu và lựa chọn những sự cân bằng.
+
+/Commitment: Product Goal
+Mục tiêu Sản phẩm mô tả trạng thái tương lai của sản phẩm có thể đóng vai trò là mục tiêu để Nhóm Scrum lập kế hoạch. Mục tiêu Sản phẩm nằm trong Product Backlog. Phần còn lại của Product Backlog xuất hiện để xác định “cái gì” sẽ hoàn thành Mục tiêu Sản phẩm.
+
+"Sản phẩm là phương tiện mang lại giá trị. Nó có ranh giới rõ ràng, các bên liên quan được biết đến, người dùng hoặc khách hàng được xác định rõ ràng. Sản phẩm có thể là dịch vụ, sản phẩm vật chất hoặc thứ gì đó trừu tượng hơn."
+
+Mục tiêu Sản phẩm là mục tiêu dài hạn của Nhóm Scrum. Họ phải hoàn thành (hoặc từ bỏ) một mục tiêu trước khi thực hiện mục tiêu tiếp theo.
+
+///Sprint Backlog
+Sprint Backlog bao gồm Mục tiêu Sprint (tại sao), tập hợp các mục Product Backlog được chọn cho Sprint (cái gì), cũng như một kế hoạch khả thi để thực hiện Phần tăng trưởng (như thế nào).
+
+Sprint Backlog là một kế hoạch của Nhà phát triển và dành cho Nhà phát triển. Đó là bức tranh thời gian thực, dễ thấy về công việc mà Nhà phát triển dự định hoàn thành trong Sprint để đạt được Mục tiêu Sprint. Do đó, Sprint Backlog được cập nhật trong suốt Sprint khi học được nhiều điều hơn. Nó phải có đủ chi tiết để họ có thể kiểm tra tiến trình của mình trong Daily Scrum.
+
+/Commitment: Sprint Goal
+Mục tiêu Sprint là mục tiêu duy nhất cho Sprint. Mặc dù Mục tiêu Sprint là cam kết của Nhà phát triển nhưng nó mang lại sự linh hoạt về công việc chính xác cần thiết để đạt được mục tiêu đó. Mục tiêu Sprint cũng tạo ra sự gắn kết và tập trung, khuyến khích Nhóm Scrum làm việc cùng nhau thay vì thực hiện các sáng kiến ​​riêng biệt.
+
+Mục tiêu Sprint được tạo trong sự kiện Lập kế hoạch Sprint và sau đó được thêm vào Sprint Backlog. Khi Nhà phát triển làm việc trong Sprint, họ luôn ghi nhớ Mục tiêu Sprint. Nếu công việc khác với mong đợi của họ, họ sẽ cộng tác với Chủ sản phẩm để đàm phán phạm vi của Sprint Backlog trong Sprint mà không ảnh hưởng đến Mục tiêu Sprint.
+
+///Increment
+Phần tăng trưởng là bước đệm cụ thể hướng tới Mục tiêu Sản phẩm. Mỗi Phần tăng thêm sẽ bổ sung cho tất cả các Phần tăng trưởng trước đó và được xác minh kỹ lưỡng, đảm bảo rằng tất cả các Phần tăng trưởng hoạt động cùng nhau. Để cung cấp giá trị, Phần tăng trưởng phải có thể sử dụng được.
+
+Nhiều Phần tăng trưởng có thể được tạo trong một Sprint. Tổng số Phần tăng trưởng được trình bày tại buổi Đánh giá Sprint, do đó hỗ trợ chủ nghĩa kinh nghiệm. Tuy nhiên, Phần tăng trưởng có thể được chuyển giao cho các bên liên quan trước khi kết thúc Sprint. Buổi đánh giá Sprint không bao giờ được coi là cánh cổng để giải phóng giá trị.
+
+Công việc không thể được coi là một phần của Phần tăng trưởng trừ khi nó đáp ứng Định nghĩa Hoàn thành.
+
+/Commitment: Definition of Done
+Định nghĩa Hoàn thành là một mô tả chính thức về trạng thái của Phần tăng trưởng khi nó đáp ứng các thước đo chất lượng cần thiết cho sản phẩm.
+
+Thời điểm một hạng mục Product Backlog đáp ứng Định nghĩa Hoàn thành, một Phần tăng trưởng sẽ ra đời.
+
+Định nghĩa Hoàn thành tạo ra sự minh bạch bằng cách cung cấp cho mọi người sự hiểu biết chung về những công việc đã được hoàn thành như một phần của Phần tăng trưởng. Nếu một hạng mục Product Backlog không đáp ứng Định nghĩa Hoàn thành, nó sẽ không thể được phát hành hoặc thậm chí được trình bày tại buổi Đánh giá Sprint. Thay vào đó, nó quay trở lại Product Backlog để xem xét trong tương lai.
+
+Nếu Định nghĩa Hoàn thành cho một mức tăng trưởng là một phần tiêu chuẩn của tổ chức thì tối thiểu tất cả các Nhóm Scrum phải tuân theo nó. Nếu đó không phải là tiêu chuẩn của tổ chức, Nhóm Scrum phải tạo ra Định nghĩa Hoàn thành phù hợp với sản phẩm.
+
+Nhà phát triển được yêu cầu phải tuân thủ Định nghĩa Hoàn thành. Nếu có nhiều Nhóm Scrum làm việc cùng nhau trên một sản phẩm, họ phải cùng xác định và tuân thủ cùng một Định nghĩa Hoàn thành.

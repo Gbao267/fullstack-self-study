@@ -1,0 +1,9 @@
+///Purpose of the Scrum Guide/// 
+https://scrumguides.org/scrum-guide.html
+Chúng tôi đã phát triển Scrum vào đầu những năm 1990. Chúng tôi đã viết phiên bản đầu tiên của Hướng dẫn Scrum vào năm 2010 để giúp mọi người trên toàn thế giới hiểu về Scrum. Kể từ đó, chúng tôi đã phát triển Hướng dẫn này thông qua các bản cập nhật nhỏ mang tính chức năng. Cùng nhau, chúng ta đứng đằng sau nó.
+
+Hướng dẫn Scrum chứa định nghĩa về Scrum. Mỗi thành phần của khung phục vụ một mục đích cụ thể cần thiết cho giá trị và kết quả tổng thể đạt được nhờ Scrum. Việc thay đổi thiết kế hoặc ý tưởng cốt lõi của Scrum, loại bỏ các yếu tố hoặc không tuân theo các quy tắc của Scrum, sẽ che giấu các vấn đề và hạn chế lợi ích của Scrum, thậm chí có thể khiến nó trở nên vô dụng.
+
+Chúng tôi theo dõi việc sử dụng Scrum ngày càng tăng trong một thế giới phức tạp ngày càng phát triển. Chúng tôi rất khiêm tốn khi thấy Scrum được áp dụng trong nhiều lĩnh vực có công việc phức tạp về bản chất, ngoài việc phát triển sản phẩm phần mềm nơi Scrum có nguồn gốc. Khi việc sử dụng Scrum ngày càng lan rộng, các nhà phát triển, nhà nghiên cứu, nhà phân tích, nhà khoa học và các chuyên gia khác sẽ thực hiện công việc. Chúng tôi sử dụng từ “nhà phát triển” trong Scrum không phải để loại trừ mà để đơn giản hóa. Nếu bạn nhận được giá trị từ Scrum, hãy coi như bạn được bao gồm trong đó.
+
+Khi Scrum đang được sử dụng, các mẫu, quy trình và hiểu biết phù hợp với khuôn khổ Scrum như được mô tả trong tài liệu này có thể được tìm thấy, áp dụng và phát minh ra. Mô tả của chúng nằm ngoài mục đích của Hướng dẫn Scrum vì chúng nhạy cảm với ngữ cảnh và rất khác nhau giữa các lần sử dụng Scrum. Các chiến thuật sử dụng trong khuôn khổ Scrum như vậy rất khác nhau và được mô tả ở nơi khác.

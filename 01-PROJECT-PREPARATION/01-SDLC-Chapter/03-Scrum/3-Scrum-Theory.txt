@@ -1,0 +1,21 @@
+///Scrum Theory///
+Scrum được thành lập dựa trên chủ nghĩa kinh nghiệm và tư duy tinh gọn. Chủ nghĩa kinh nghiệm khẳng định rằng kiến ​​thức đến từ kinh nghiệm và đưa ra quyết định dựa trên những gì được quan sát. Tư duy tinh gọn giúp giảm lãng phí và tập trung vào những điều cần thiết.
+
+Scrum sử dụng cách tiếp cận lặp đi lặp lại, tăng dần để tối ưu hóa khả năng dự đoán và kiểm soát rủi ro. Scrum thu hút các nhóm người có tất cả các kỹ năng và kiến ​​thức chuyên môn để thực hiện công việc và chia sẻ hoặc tiếp thu những kỹ năng đó khi cần thiết.
+
+Scrum kết hợp bốn sự kiện chính thức để kiểm tra và điều chỉnh trong một sự kiện có chứa Sprint. Những sự kiện này hoạt động hiệu quả vì chúng triển khai các trụ cột theo kinh nghiệm của Scrum về tính minh bạch, kiểm tra và thích ứng.
+
+///Transparency
+Quá trình và công việc mới nổi phải được hiển thị cho những người thực hiện công việc cũng như những người nhận công việc. Với Scrum, các quyết định quan trọng đều dựa trên trạng thái nhận thức của ba thành phần chính thức. Các hiện vật có độ minh bạch thấp có thể dẫn đến các quyết định làm giảm giá trị và tăng rủi ro.
+
+Sự minh bạch cho phép kiểm tra. Thanh tra không minh bạch là sai lầm, lãng phí.
+
+///Inspection
+Các tạo phẩm Scrum và tiến trình hướng tới các mục tiêu đã thống nhất phải được kiểm tra thường xuyên và siêng năng để phát hiện những khác biệt hoặc vấn đề không mong muốn tiềm ẩn. Để giúp kiểm tra, Scrum cung cấp nhịp độ dưới dạng năm sự kiện.
+
+Kiểm tra cho phép thích ứng. Kiểm tra mà không có sự thích ứng được coi là vô nghĩa. Các sự kiện Scrum được thiết kế để kích thích sự thay đổi.
+
+///Adaptation
+Nếu bất kỳ khía cạnh nào của quy trình vượt quá giới hạn chấp nhận được hoặc nếu sản phẩm tạo ra không được chấp nhận thì quy trình đang được áp dụng hoặc nguyên liệu được sản xuất phải được điều chỉnh. Việc điều chỉnh phải được thực hiện càng sớm càng tốt để giảm thiểu sai lệch thêm.
+
+Việc thích ứng trở nên khó khăn hơn khi những người liên quan không được trao quyền hoặc không tự quản lý. Nhóm Scrum phải thích ứng ngay khi họ học được bất kỳ điều gì mới thông qua quá trình kiểm tra.

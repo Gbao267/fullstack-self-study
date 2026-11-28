@@ -1,0 +1,64 @@
+///Scrum Team///
+Đơn vị cơ bản của Scrum là một nhóm nhỏ gồm nhiều người, Nhóm Scrum. Nhóm Scrum bao gồm một Scrum Master, một Chủ sở hữu sản phẩm và Nhà phát triển. Trong Nhóm Scrum, không có nhóm phụ hoặc hệ thống phân cấp. Đây là một đơn vị gắn kết gồm các chuyên gia tập trung vào một mục tiêu tại một thời điểm, Mục tiêu Sản phẩm.
+
+Nhóm Scrum có tính đa chức năng, nghĩa là các thành viên có tất cả các kỹ năng cần thiết để tạo ra giá trị trong mỗi Sprint. Họ cũng tự quản lý, nghĩa là họ tự quyết định ai làm gì, khi nào và như thế nào.
+
+Nhóm Scrum đủ nhỏ để duy trì sự nhanh nhẹn và đủ lớn để hoàn thành công việc quan trọng trong Sprint, thường có 10 người trở xuống. Nhìn chung, chúng tôi nhận thấy các nhóm nhỏ giao tiếp tốt hơn và làm việc hiệu quả hơn. Nếu Nhóm Scrum trở nên quá lớn, họ nên cân nhắc việc tổ chức lại thành nhiều Nhóm Scrum gắn kết, mỗi Nhóm tập trung vào cùng một sản phẩm. Do đó, họ nên chia sẻ cùng Mục tiêu sản phẩm, Tồn đọng sản phẩm và Chủ sở hữu sản phẩm.
+
+Nhóm Scrum chịu trách nhiệm về tất cả các hoạt động liên quan đến sản phẩm từ sự hợp tác của các bên liên quan, xác minh, bảo trì, vận hành, thử nghiệm, nghiên cứu và phát triển cũng như bất kỳ hoạt động nào khác có thể được yêu cầu. Họ được tổ chức cấu trúc và trao quyền để quản lý công việc của chính họ. Làm việc trong Sprint với tốc độ bền vững sẽ cải thiện sự tập trung và tính nhất quán của Nhóm Scrum.
+
+Toàn bộ Nhóm Scrum chịu trách nhiệm tạo ra Phần tăng trưởng có giá trị, hữu ích trong mỗi Sprint. Scrum xác định ba trách nhiệm cụ thể trong Nhóm Scrum: Nhà phát triển, Chủ sở hữu sản phẩm và Scrum Master.
+
+///Developers
+Nhà phát triển là những người trong Nhóm Scrum cam kết tạo ra bất kỳ khía cạnh nào của Phần tăng trưởng có thể sử dụng được trong mỗi Sprint.
+
+Các kỹ năng cụ thể mà Nhà phát triển cần có thường rất rộng và sẽ thay đổi tùy theo lĩnh vực công việc. Tuy nhiên, Nhà phát triển luôn chịu trách nhiệm về:
+
+1. Lập kế hoạch cho Sprint, Sprint Backlog;
+2. Thúc đẩy chất lượng bằng cách tuân thủ Định nghĩa Hoàn thành;
+3. Điều chỉnh kế hoạch mỗi ngày của họ hướng tới Mục tiêu Sprint; và,
+4. Giữ nhau có trách nhiệm với tư cách là những người chuyên nghiệp.
+
+///Product Owner
+Chủ sản phẩm chịu trách nhiệm tối đa hóa giá trị của sản phẩm nhờ công việc của Nhóm Scrum. Cách thức thực hiện điều này có thể rất khác nhau giữa các tổ chức, Nhóm Scrum và các cá nhân.
+
+Chủ sản phẩm cũng chịu trách nhiệm quản lý Product Backlog hiệu quả, bao gồm:
+
+1. Phát triển và truyền đạt rõ ràng Mục tiêu Sản phẩm;
+2. Tạo và truyền đạt rõ ràng các hạng mục Product Backlog;
+3. Đặt hàng các hạng mục Product Backlog; và,
+4. Đảm bảo rằng Product Backlog minh bạch, rõ ràng và dễ hiểu.
+
+Chủ sản phẩm có thể thực hiện công việc trên hoặc có thể giao trách nhiệm cho người khác. Dù thế nào đi nữa, Chủ sản phẩm vẫn phải chịu trách nhiệm.
+
+Để Chủ sản phẩm thành công, toàn bộ tổ chức phải tôn trọng quyết định của họ. Những quyết định này được thể hiện rõ trong nội dung và thứ tự của Product Backlog cũng như thông qua phần Tăng trưởng có thể kiểm tra được tại buổi Đánh giá Sprint.
+
+Chủ sản phẩm là một người, không phải một ủy ban. Chủ Sản phẩm có thể đại diện cho nhu cầu của nhiều bên liên quan trong Product Backlog. Những người muốn thay đổi Product Backlog có thể làm như vậy bằng cách cố gắng thuyết phục Chủ sản phẩm.
+
+///Scrum Master
+Scrum Master chịu trách nhiệm thiết lập Scrum như được định nghĩa trong Hướng dẫn Scrum. Họ làm điều này bằng cách giúp mọi người hiểu lý thuyết và thực hành Scrum, cả trong Nhóm Scrum và tổ chức.
+
+Scrum Master chịu trách nhiệm về tính hiệu quả của Nhóm Scrum. Họ làm điều này bằng cách cho phép Nhóm Scrum cải thiện các hoạt động của mình trong khuôn khổ Scrum.
+
+Scrum Master là những nhà lãnh đạo thực sự phục vụ Nhóm Scrum và tổ chức lớn hơn.
+
+Scrum Master phục vụ Nhóm Scrum theo nhiều cách, bao gồm:
+
+1. Huấn luyện các thành viên trong nhóm về cách tự quản lý và đa chức năng;
+2. Giúp Nhóm Scrum tập trung vào việc tạo ra các Phần tăng trưởng có giá trị cao đáp ứng Định nghĩa Hoàn thành;
+3. Loại bỏ các trở ngại đối với tiến độ của Nhóm Scrum; và,
+4. Đảm bảo rằng tất cả các sự kiện Scrum diễn ra tích cực, hiệu quả và được duy trì trong khung thời gian.
+
+Scrum Master phục vụ Product Owner theo nhiều cách, bao gồm:
+
+1. Giúp tìm ra các kỹ thuật để xác định Mục tiêu Sản phẩm và quản lý tồn đọng Sản phẩm hiệu quả;
+2. Giúp Nhóm Scrum hiểu được sự cần thiết của các hạng mục Product Backlog rõ ràng và ngắn gọn;
+3. Giúp thiết lập kế hoạch sản phẩm theo kinh nghiệm cho một môi trường phức tạp; và,
+4. Tạo điều kiện cho sự hợp tác của các bên liên quan theo yêu cầu hoặc cần thiết.
+
+Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
+
+1. Lãnh đạo, đào tạo và huấn luyện tổ chức trong việc áp dụng Scrum;
+2. Lập kế hoạch và tư vấn triển khai Scrum trong tổ chức;
+3. Giúp nhân viên và các bên liên quan hiểu và áp dụng cách tiếp cận thực nghiệm đối với công việc phức tạp; và,
+4. Loại bỏ rào cản giữa các bên liên quan và Nhóm Scrum.

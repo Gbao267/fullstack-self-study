@@ -1,0 +1,10 @@
+///Acknowledgements
+/People
+Trong số hàng nghìn người đã đóng góp cho Scrum, chúng ta nên chọn ra những người có vai trò quan trọng ngay từ đầu: Jeff Sutherland làm việc với Jeff McKenna và John Scumniotales, còn Ken Schwaber làm việc với Mike Smith và Chris Martin, và tất cả họ đều làm việc cùng nhau. Nhiều người khác đã đóng góp trong những năm tiếp theo và nếu không có sự giúp đỡ của họ thì Scrum sẽ không thể được hoàn thiện như ngày nay.
+
+/Scrum Guide History
+Ken Schwaber và Jeff Sutherland lần đầu tiên đồng trình bày Scrum tại Hội nghị OOPSLA vào năm 1995. Về cơ bản, nó ghi lại những kiến ​​thức mà Ken và Jeff đã đạt được trong vài năm trước đó và công bố định nghĩa chính thức đầu tiên về Scrum.
+
+Hướng dẫn Scrum ghi lại Scrum được phát triển, phát triển và duy trì trong hơn 30 năm bởi Jeff Sutherland và Ken Schwaber. Các nguồn khác cung cấp các mẫu, quy trình và hiểu biết bổ sung cho khung Scrum. Những điều này có thể làm tăng năng suất, giá trị, tính sáng tạo và sự hài lòng với kết quả.
+
+Lịch sử đầy đủ của Scrum được mô tả ở nơi khác. Để tôn vinh những nơi đầu tiên nó đã được thử và chứng minh, chúng tôi công nhận Personal Inc., Newspage, Fidelity Investments và IDX (nay là GE Medical).

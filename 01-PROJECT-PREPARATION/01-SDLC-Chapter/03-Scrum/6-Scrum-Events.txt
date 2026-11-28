@@ -1,0 +1,71 @@
+///Scrum Events///
+Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo phẩm Scrum. Những sự kiện này được thiết kế đặc biệt để đảm bảo tính minh bạch cần thiết. Việc không vận hành bất kỳ sự kiện nào theo quy định sẽ dẫn đến mất cơ hội kiểm tra và thích ứng. Các sự kiện được sử dụng trong Scrum để tạo ra sự đều đặn và giảm thiểu nhu cầu tổ chức các cuộc họp không được xác định trong Scrum.
+
+Tối ưu nhất là tất cả các sự kiện được tổ chức cùng thời gian và địa điểm để giảm độ phức tạp.
+
+///The Sprint
+Sprint là nhịp tim của Scrum, nơi ý tưởng được biến thành giá trị.
+
+Chúng là những sự kiện có độ dài cố định từ một tháng trở xuống để tạo sự nhất quán. Một Sprint mới bắt đầu ngay sau khi kết thúc Sprint trước đó.
+
+Tất cả công việc cần thiết để đạt được Mục tiêu sản phẩm, bao gồm Lập kế hoạch Sprint, Scrum hàng ngày, Đánh giá Sprint và Hồi tưởng Sprint, đều diễn ra trong Sprint.
+
+Trong Sprint:
+
+1. Không có thay đổi nào được thực hiện có thể gây nguy hiểm cho Mục tiêu Sprint;
+2. Chất lượng không giảm;
+3. Product Backlog được tinh chỉnh khi cần thiết; và,
+4. Phạm vi có thể được làm rõ và thương lượng lại với Chủ sản phẩm khi tìm hiểu được nhiều hơn.
+
+Sprint cho phép dự đoán bằng cách đảm bảo kiểm tra và điều chỉnh tiến độ hướng tới Mục tiêu sản phẩm ít nhất mỗi tháng theo lịch. Khi thời hạn của Sprint quá dài, Mục tiêu Sprint có thể trở nên không hợp lệ, độ phức tạp có thể tăng lên và rủi ro có thể tăng lên. Sprint ngắn hơn có thể được sử dụng để tạo ra nhiều chu trình học tập hơn và hạn chế rủi ro về chi phí và nỗ lực trong khung thời gian nhỏ hơn. Mỗi Sprint có thể được coi là một dự án ngắn.
+
+Có nhiều cách thực hành khác nhau để dự báo tiến độ, chẳng hạn như đốt cháy, đốt cháy hoặc dòng tích lũy. Mặc dù đã được chứng minh là hữu ích nhưng những điều này không thay thế được tầm quan trọng của chủ nghĩa kinh nghiệm. Trong môi trường phức tạp, điều gì sẽ xảy ra vẫn chưa được biết. Chỉ những gì đã xảy ra mới có thể được sử dụng để đưa ra quyết định hướng tới tương lai.
+
+Sprint có thể bị hủy nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ sản phẩm mới có quyền hủy Sprint.
+
+///Sprint Planning
+Lập kế hoạch Sprint bắt đầu Sprint bằng cách đặt ra các công việc cần thực hiện cho Sprint. Kế hoạch kết quả này được tạo ra bởi sự hợp tác của toàn bộ Nhóm Scrum.
+
+Chủ sản phẩm đảm bảo rằng những người tham dự sẵn sàng thảo luận về các hạng mục Product Backlog quan trọng nhất và cách chúng ánh xạ tới Mục tiêu sản phẩm. Nhóm Scrum cũng có thể mời người khác tham gia Lập kế hoạch Sprint để đưa ra lời khuyên.
+
+Lập kế hoạch Sprint giải quyết các chủ đề sau:
+
+/Topic One: Why is this Sprint valuable?
+Chủ sản phẩm đề xuất cách sản phẩm có thể tăng giá trị và tiện ích trong Sprint hiện tại. Sau đó, toàn bộ Nhóm Scrum sẽ cộng tác để xác định Mục tiêu Sprint nhằm truyền đạt lý do tại sao Sprint lại có giá trị đối với các bên liên quan. Mục tiêu Sprint phải được hoàn thành trước khi kết thúc Lập kế hoạch Sprint.
+
+/Topic Two: What can be Done this Sprint?
+Thông qua thảo luận với Chủ sản phẩm, Nhà phát triển sẽ chọn các mục từ Product Backlog để đưa vào Sprint hiện tại. Nhóm Scrum có thể tinh chỉnh các mục này trong quá trình này, điều này giúp tăng cường sự hiểu biết và sự tự tin.
+
+Việc chọn số lượng có thể hoàn thành trong Sprint có thể là một thách thức. Tuy nhiên, Nhà phát triển càng biết nhiều về hiệu suất trong quá khứ, năng lực sắp tới và Định nghĩa Hoàn thành của họ thì họ sẽ càng tự tin hơn vào dự báo Sprint của mình.
+
+/Topic Three: How will the chosen work get done?
+Đối với mỗi hạng mục Product Backlog đã chọn, Nhà phát triển lập kế hoạch công việc cần thiết để tạo ra Phần tăng trưởng đáp ứng Định nghĩa Hoàn thành. Điều này thường được thực hiện bằng cách phân tách các hạng mục Product Backlog thành các hạng mục công việc nhỏ hơn trong một ngày hoặc ít hơn. Việc này được thực hiện như thế nào là tùy theo quyết định riêng của Nhà phát triển. Không ai khác chỉ cho họ cách biến các hạng mục trong Product Backlog thành Phần tăng thêm giá trị.
+
+Mục tiêu Sprint, các hạng mục Product Backlog được chọn cho Sprint, cùng với kế hoạch phân phối chúng được gọi chung là Sprint Backlog.
+
+Lập kế hoạch Sprint được giới hạn thời gian tối đa là tám giờ cho Sprint kéo dài một tháng. Đối với các Sprint ngắn hơn, sự kiện thường ngắn hơn.
+
+///Daily Scrum
+Mục đích của Daily Scrum là kiểm tra tiến độ hướng tới Mục tiêu Sprint và điều chỉnh Sprint Backlog khi cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
+
+Daily Scrum là sự kiện kéo dài 15 phút dành cho các Nhà phát triển của Nhóm Scrum. Để giảm bớt độ phức tạp, nó được tổ chức vào cùng thời gian và địa điểm vào mỗi ngày làm việc của Sprint. Nếu Chủ sản phẩm hoặc Scrum Master đang tích cực xử lý các hạng mục trong Sprint Backlog thì họ sẽ tham gia với tư cách là Nhà phát triển.
+
+Nhà phát triển có thể chọn bất kỳ cấu trúc và kỹ thuật nào họ muốn, miễn là Scrum hàng ngày của họ tập trung vào tiến độ hướng tới Mục tiêu Sprint và đưa ra kế hoạch hành động cho ngày làm việc tiếp theo. Điều này tạo ra sự tập trung và cải thiện khả năng tự quản lý.
+
+Scrum hàng ngày cải thiện hoạt động giao tiếp, xác định các trở ngại, thúc đẩy quá trình ra quyết định nhanh chóng và do đó loại bỏ nhu cầu tổ chức các cuộc họp khác.
+
+///Sprint Review
+Mục đích của Đánh giá Sprint là kiểm tra kết quả của Sprint và xác định các điều chỉnh trong tương lai. Nhóm Scrum trình bày kết quả công việc của họ cho các bên liên quan chính và tiến trình hướng tới Mục tiêu Sản phẩm sẽ được thảo luận.
+
+Trong sự kiện này, Nhóm Scrum và các bên liên quan sẽ xem xét những gì đã đạt được trong Sprint và những gì đã thay đổi trong môi trường của họ. Dựa trên thông tin này, những người tham dự sẽ cộng tác về những việc cần làm tiếp theo. Product Backlog cũng có thể được điều chỉnh để đáp ứng các cơ hội mới. Đánh giá Sprint là một phiên làm việc và Nhóm Scrum nên tránh giới hạn nó trong một buổi thuyết trình.
+
+Đánh giá Sprint là sự kiện thứ hai đến cuối cùng của Sprint và được giới hạn thời gian tối đa là bốn giờ cho một Sprint kéo dài một tháng. Đối với các Sprint ngắn hơn, sự kiện thường ngắn hơn.
+
+///Sprint Retrospective
+Mục đích của buổi Cải tiến Sprint là lập kế hoạch các cách để nâng cao chất lượng và hiệu quả.
+
+Nhóm Scrum kiểm tra xem Sprint cuối cùng đã diễn ra như thế nào liên quan đến các cá nhân, sự tương tác, quy trình, công cụ và Định nghĩa Hoàn thành của họ. Các yếu tố được kiểm tra thường thay đổi tùy theo lĩnh vực công việc. Những giả định khiến họ lạc lối đã được xác định và nguồn gốc của chúng được khám phá. Nhóm Scrum thảo luận về những gì đã diễn ra tốt đẹp trong Sprint, những vấn đề mà nhóm gặp phải và cách giải quyết những vấn đề đó (hoặc không).
+
+Nhóm Scrum xác định những thay đổi hữu ích nhất để nâng cao hiệu quả của nhóm. Những cải tiến có tác động mạnh nhất sẽ được giải quyết càng sớm càng tốt. Chúng thậm chí có thể được thêm vào Sprint Backlog cho Sprint tiếp theo.
+
+Buổi cải tiến Sprint kết thúc Sprint. Nó được giới hạn thời gian tối đa là ba giờ cho Sprint kéo dài một tháng. Đối với các Sprint ngắn hơn, sự kiện thường ngắn hơn.

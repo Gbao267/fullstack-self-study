@@ -1,0 +1,2 @@
+///End Note///
+Scrum là miễn phí và được cung cấp trong Hướng dẫn này. Khung Scrum, như được nêu ở đây, là bất biến. Mặc dù chỉ có thể triển khai các phần của Scrum nhưng kết quả không phải là Scrum. Scrum chỉ tồn tại toàn bộ và hoạt động tốt như một nơi chứa đựng các kỹ thuật, phương pháp và thực tiễn khác.

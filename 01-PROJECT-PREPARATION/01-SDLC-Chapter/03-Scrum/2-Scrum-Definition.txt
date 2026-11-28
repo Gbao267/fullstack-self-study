@@ -1,0 +1,13 @@
+///Scrum Definition///
+Scrum là một khuôn khổ nhẹ giúp mọi người, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
+
+Tóm lại, Scrum yêu cầu Scrum Master thúc đẩy một môi trường trong đó:
+
+1. Chủ sản phẩm sắp xếp công việc cho một vấn đề phức tạp trong Product Backlog.
+2. Nhóm Scrum biến việc lựa chọn công việc thành Phần tăng giá trị trong Sprint.
+3. Nhóm Scrum và các bên liên quan kiểm tra kết quả và điều chỉnh cho Sprint tiếp theo.
+4. Lặp lại
+
+Scrum rất đơn giản. Hãy thử và xác định xem triết lý, lý thuyết và cấu trúc của nó có giúp đạt được mục tiêu và tạo ra giá trị hay không. Khung Scrum không hoàn thiện có mục đích, chỉ xác định các phần cần thiết để triển khai lý thuyết Scrum. Scrum được xây dựng dựa trên trí tuệ tập thể của những người sử dụng nó. Thay vì cung cấp cho mọi người những hướng dẫn chi tiết, các quy tắc của Scrum sẽ hướng dẫn các mối quan hệ và tương tác của họ.
+
+Các quy trình, kỹ thuật và phương pháp khác nhau có thể được sử dụng trong khuôn khổ. Scrum bao bọc các phương pháp thực hành hiện có hoặc khiến chúng trở nên không cần thiết. Scrum giúp thấy rõ hiệu quả tương đối của các kỹ thuật quản lý, môi trường và công việc hiện tại để có thể thực hiện các cải tiến.
